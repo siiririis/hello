@@ -24,4 +24,4 @@ The first project I got to contribute to was published as [OCR Error Post-Correc
 ## What's Up Today
 I am currently aiming to finish my master's degree in computer science by the end of Spring 2026. I am also planning to start to work on an annotation tool, a full-stack project that complements my university studies. (The link will be available here shortly.)
 
-Oh, and if you found your way here through the link in my CV: [I wrote that in HTML and CSS].
+Oh, and if you found your way here through the link in my CV: [I wrote that document in HTML and CSS](https://github.com/siiririis/cv-template). Here I have just replaced my information with some mock data. (Who knows, maybe one day this CV turns into an interactive webpage?)
